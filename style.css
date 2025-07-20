@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+.header p {
+    font-size: 20px;
+}
+
+.attractions {
+    text-align: center;
+    padding: 20px;
+}
+
+.attractions h2 {
+    color: green;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.place {
+    margin: 15px;
+}
+
+.place img {
+    width: 90%;
+    max-width: 400px;
+    border-radius: 10px;
+}
+
+.place h3 {
+    color: darkgreen;
+    margin: 10px 0 5px;
+}
+
+.place p {
+    color: #555;
+}
+
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
